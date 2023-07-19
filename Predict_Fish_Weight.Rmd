@@ -1,7 +1,7 @@
 ---
 title: "Weight of Fish"
 author: "Kenroy Fuller"
-date: "July, 17 2023"  
+date: "July 19 2003"  
 output: 
   html_document:
     number_sections: true
